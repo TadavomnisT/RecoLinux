@@ -3,9 +3,9 @@
 dP"""88""""""Y8,                                 
 Yb,  88      `8b                                 
  `"  88      ,8P                                 
-     88aaaad8P"      GNU-Linux Distro for Recovery                            
-     88""""Yb,     ,ggg,     ,gggg,    ,ggggg,   
-     88     "8b   i8" "8i   dP"  "Yb  dP"  "Y8ggg
+   A lightweight commandline-based GNU-Linux distro, for  
+     88""""Yb,     ,ggg,     ,gggg,    ,ggggg, recovering data    
+     88     "8b   i8" "8i   dP"  "Yb  dP"  "Y8ggg on hard-disks.
      88      `8i  I8, ,8I  i8'       i8'    ,8I  
      88       Yb, `YbadP' ,d8,_    _,d8,   ,d8'  
      88        Y8888P"Y888P""Y8888PPP"Y8888P"    
@@ -22,4 +22,4 @@ Yb,  88      `8b
 
 
 # RecoLinux
-A lightweight commandline-based GNU-Linux distro, for recovering data on hard-disk.
+A lightweight commandline-based GNU-Linux distro, for recovering data on hard-disks.
