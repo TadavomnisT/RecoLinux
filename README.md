@@ -1,4 +1,7 @@
-``` 
+
+# RecoLinux
+A lightweight commandline-based GNU-Linux distro, for recovering data on hard-disks.
+```
  ,ggggggggggg,                                   
 dP"""88""""""Y8,                                 
 Yb,  88      `8b                                 
@@ -19,7 +22,3 @@ Yb,  88      `8b
                     88b,,_   _,88,_,dP   8I   Yb,,d8b,  ,d8b,,dP  ,dP"Y8,  
                      "Y888888P""Y88P'   8I   `Y88P'"Y88P"`Y88"  dP"   "Y88
 ```
-
-
-# RecoLinux
-A lightweight commandline-based GNU-Linux distro, for recovering data on hard-disks.
